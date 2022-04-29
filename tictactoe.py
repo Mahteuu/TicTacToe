@@ -145,5 +145,3 @@ while (vitoria != True):
             print('posição inválida.')
     else:
         print('Simbolo inválido.')
-
-print('so um teste de git')
